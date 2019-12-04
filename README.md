@@ -1,4 +1,8 @@
-#Simple Fetch API Tutorial
+## Simple Fetch API Tutorial
 
-yarn install
-yarn run dev
+Clone the repository:
+
+```bash
+$ yarn install
+$ yarn run dev
+```
