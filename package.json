@@ -1,0 +1,11 @@
+{
+  "name": "fetch-api-tutorial",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}

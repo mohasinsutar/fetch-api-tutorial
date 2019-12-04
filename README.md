@@ -1,2 +1,4 @@
-# fetch-api-tutorial
-Simple Fetch API Tutorial
+#Simple Fetch API Tutorial
+
+yarn install
+yarn run dev
